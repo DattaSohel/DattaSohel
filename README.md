@@ -23,11 +23,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <a href="https://www.youtube.com/@GAMIDATA" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white%5BYoutube" alt="YouTube" />
-  </a>
-
-
   <a href="https://www.facebook.com/sohel.datta" target="blank">
     <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -39,7 +34,14 @@
   <a href="mailto:sohel.d@futurenetwings.com" target="blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
+
+<a href="https://www.youtube.com/@GAMIDATA" target="blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <img src="https://img.shields.io/youtube/channel/views/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&label=Views&color=FF0000" alt="YouTube Views" />
+</a>
+
 </p>
+
 
 <h1><p align="center"> 🛠️ My Tech Stack</p></h1>
 <p align="center">
