@@ -36,7 +36,10 @@
   </a>
 </p>
 
-## 🎨 Skills
+<h1><p align="center"> 🛠️ My Tech Stack</p></h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,github,vscode,learning docker" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
 </p>
