@@ -16,6 +16,9 @@
   <a href="https://instagram.com/sohel.datta" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://www.facebook.com/sohel.datta">
+    <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt= "Facebook />
+  </a> 
   <a href="mailto:dsohel2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
