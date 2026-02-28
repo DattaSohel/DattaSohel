@@ -15,19 +15,23 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
+  <a href="https://x.com/SohelDatta2000" target="blank">
+    <img src="https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray" alt="X/Twitter" />
+  </a>
+
   <a href="https://instagram.com/sohel.datta" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   
-  <a href="https://www.facebook.com/sohel.datta">
+  <a href="https://www.facebook.com/sohel.datta" target="blank">
     <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt= "Facebook />
   </a>
       
-  <a href="mailto:dsohel2000@gmail.com">
+  <a href="mailto:dsohel2000@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
-  <a href="mailto:sohel.d@futurenetwings.com">
+  <a href="mailto:sohel.d@futurenetwings.com" target="blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
 </p>
