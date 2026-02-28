@@ -35,3 +35,8 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
 </p>
+
+## 🎨 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,github,vscode,learning docker" />
+</p>
