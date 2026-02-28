@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Sohel+Datta+Here;Welcome+to+my+Profile;Built+Jarvis+AI-Assistant;I+love+Python;I+Love+Data+Analysis" alt="Typing SVG" /> 
 </p>
 
-
 <h1><p align="center"> 🌐 Connect with Me</p></h1>
+
 <p align="center">
   <a href="https://linkedin.com/in/soheldatta" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,13 +18,13 @@
   <a href="https://x.com/SohelDatta2000" target="blank">
     <img src="https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray" alt="X/Twitter" />
   </a>
-
+  
   <a href="https://instagram.com/sohel.datta" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   
   <a href="https://www.facebook.com/sohel.datta" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt= "Facebook />
+    <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
       
   <a href="mailto:dsohel2000@gmail.com" target="blank">
@@ -34,5 +34,4 @@
   <a href="mailto:sohel.d@futurenetwings.com" target="blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
-</p>
 </p>
