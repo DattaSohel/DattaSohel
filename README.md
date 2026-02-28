@@ -50,3 +50,19 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DattaSohel&show_icons=true&theme=tokyonight&count_private=true" alt="Sohel's GitHub stats" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DattaSohel&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DattaSohel&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
