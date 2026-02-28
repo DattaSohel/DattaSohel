@@ -37,7 +37,7 @@
 
 <a href="https://www.youtube.com/@GAMIDATA" target="blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  <img src="https://img.shields.io/youtube/channel/views/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&label=Views&color=FF0000" alt="YouTube Views" />
+  <img src="https://img.shields.io/youtube/channel/views/UCcW244ahV1khGcmnSNjBalA?style=for-the-badge&logo=youtube&logoColor=white&label=Views&color=FF0000" alt="YouTube Views" />
 </a>
 
 </p>
