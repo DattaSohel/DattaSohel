@@ -52,17 +52,13 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DattaSohel&show_icons=true&theme=tokyonight&count_private=true" alt="Sohel's GitHub stats" />
-</p>
-
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DattaSohel&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DattaSohel&show_icons=true&theme=tokyonight&count_private=true" alt="Sohel's GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DattaSohel&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DattaSohel&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DattaSohel&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
-
 
